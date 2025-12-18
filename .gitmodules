@@ -1,0 +1,6 @@
+[submodule "PowerCore500/Footprints"]
+	path = PowerCore500/Footprints
+	url = https://github.com/SuhasPatlolla/KiCad-Libraries.git
+[submodule "PowerCore500/KiCad-Libraries"]
+	path = PowerCore500/KiCad-Libraries
+	url = https://github.com/SuhasPatlolla/KiCad-Libraries.git
